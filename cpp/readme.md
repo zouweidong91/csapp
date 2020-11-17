@@ -9,6 +9,9 @@ xxx.o
 ## win
 
 * [环境](https://www.zhihu.com/question/30315894)
+* 扩展
+> Code Runner  
+> C/C++
 
 Alt+Shift+F（或者用右键菜单）可以格式化代码
 Ctrl+Shift+B 单纯编译 
