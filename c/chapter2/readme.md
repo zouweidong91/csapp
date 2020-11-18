@@ -21,3 +21,8 @@ int strlen(const char[])
 
 + - * /       >= <=  ==  !=       ||   &&
 
+
+## 条件表达式
+z = max(a, b)
+z = (a > b) ? a : b;
+
