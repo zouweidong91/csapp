@@ -6,6 +6,8 @@ int main(){
 
     nwhite = nother = 0;
     nwhite = nother = 0;
+
+    // 必须对数组进行初始化操作
     for (i = 0; i < 10; i++)
         ndigit[i] = 0;
     
