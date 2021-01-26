@@ -15,3 +15,13 @@ struct {
 
 *p->str++  先读取指针str指向的对象，再将str加1
 (*p->str)++ 将指针str指向的对象加1
+
+
+## 自引用
+struct t{
+    struct s *p;  // p指向一个s结构
+}
+
+struct s {
+    struct t *q;  // q指向一个t结构
+}
