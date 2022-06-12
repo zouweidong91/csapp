@@ -85,5 +85,6 @@
         "bitset": "cpp",
         "list": "cpp",
         "regex": "cpp"
-    }, // 格式化时调整include的顺序（按字母排序）
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled", // 格式化时调整include的顺序（按字母排序）
 }
