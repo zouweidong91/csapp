@@ -17,7 +17,7 @@ int main()  //每个程序都是从main函数的起点开始执行
         // celsius = 5 * (fahr - 32) /9;
         celsius = (5.0 / 9.0) * (fahr - 32.0);
         // printf("%d\t%d\t\n", fahr, celsius);
-        printf("%3.0f %6.1f\n", fahr, celsius);
+        printf("%3.0f %.1f\n", fahr, celsius);
         fahr = fahr + step;
     };
 }

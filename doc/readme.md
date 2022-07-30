@@ -16,3 +16,8 @@ xxx.o
 Alt+Shift+F（或者用右键菜单）可以格式化代码
 Ctrl+Shift+B 单纯编译 
 按F5为编译加调试
+
+## 基本操作
+* EOF 换行后 ctrl+z
+
+
