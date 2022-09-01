@@ -15,6 +15,9 @@ vendor
 
 .bazelrc
 /bazel-*
+
+# c代码中间文件
 *.exe
 *.o
+*.s
 *.out
